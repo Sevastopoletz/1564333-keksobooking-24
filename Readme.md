@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг»
 
 * Студент: [Alexandr Karabanov](https://up.htmlacademy.ru/javascript/24/user/1564333).
-* Наставник: `Неизвестно`.
+* Наставник: [Анастасия Смирнова](https://htmlacademy.ru/profile/id232838).
 
 ---
 
