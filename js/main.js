@@ -12,7 +12,7 @@ getRandomIntFromRange();
 const getRandomFloatFromRange = function (fromInt, tillInt, fractionCount) {
   fractionCount = Math.round(fractionCount);
   if (tillInt > fromInt && fromInt >= 0) {
-    const RandomFloatFromRange = Math.random() * (tillInt - fromInt + 1) + fromInt;
+    const RandomFloatFromRange = Math.random() * (tillInt - fromInt) + fromInt;
     return RandomFloatFromRange.toFixed(fractionCount);
   }
   return 'A positive float above zero inclusive is expected / first value must be greater than the second one!';
